@@ -3,7 +3,7 @@
 const { stringify } = require("git-url-parse");
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "perro";
+const nuevaString = "nueva string";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 1250000;
@@ -99,7 +99,7 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
- /*  if(num >50) {
+/*  if(num >50) {
     return true
   }else {
     return false
@@ -118,7 +118,7 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
- /*  if(num % 2 === 0) {
+/*  if(num % 2 === 0) {
     return true
   }else {
     return false
